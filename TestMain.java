@@ -3,5 +3,6 @@ public class Main{
 		System.out.println("Vandhematharam Vandhematharam");
 		System.out.println("Jai Hindh");
 		System.out.println("Mera Bharath Mahan....");
+		System.out.println("Mera Bharath Mahan....");
 	}
 }	
